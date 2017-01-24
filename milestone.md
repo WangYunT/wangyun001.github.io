@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "milestone"
-description: "Life is Miracle"
+title: "生活小乐趣"
+description: "Life is Fun"
 header-img: "img/zhihu.jpg"
 ---
 
