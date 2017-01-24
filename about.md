@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "my name is Hanson Zhang.On my way to change"
+description: "This is my personal introduction"
 header-img: "img/green.jpg"
 ---
 
@@ -10,17 +10,17 @@ header-img: "img/green.jpg"
 
 # 联系方式
 
-*   Email：yuanpingzhang123@gmail.com
-*   QQ/微信号：314850824
+*   Email：wangyun3690@gmail.com
+*   QQ号：314850824
 
 * * *
 
-# 个人信息
+# 个人小信息
 
-*   张远平/男/1993
-*   本科/广东工业大学 
-*   技术博客:
-*   Github: 
-*   目前就职于：
+*   王韵/男/1993
+*   本科/西北工业大学明德学院
+*   技术博客:https://wangyunt.github.io/wangyun001.github.io/
+*   Github: https://github.com/WangYunT
+*   目前就职于：ChinaSoft
 
 * * *
